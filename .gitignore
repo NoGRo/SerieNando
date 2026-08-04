@@ -1,0 +1,9 @@
+.tools/
+.venv/
+__pycache__/
+*.py[cod]
+library/*.sqlite
+library/*.sqlite-*
+data/derived/
+data/source/youtube/**/.archive.lock
+
