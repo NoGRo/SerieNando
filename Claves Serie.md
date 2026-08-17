@@ -14,8 +14,9 @@
 3. **Nando** es humillado y es victima de chistes crueles sobre el.  
 4. Se muestra **alguna fiesta o reunión** (ChechoFest, casa, reunión de copitos, etc.).
 5. Aparece algún **acto pervertido o sexual** (strip poker, shibari, velas, shenga erótico, Patear bolas, sexo en grupo, etc.).
-6. Se plantea un **indicio o duda de conspiración mayor**, que termina desmentido de manera hilarante por lo bizarro de los personajes y sus vidas.
-7. Los personajes sufren en carne propia la **situación económica y política del país**.
+6. Trampa Truco  para salir adelante (carnet falso de discapacitado, cobrar un plan no debido, modificar el meidor del taxi, exibirce para vender mas, ticket trucho para comer, colgarse de la luz, agua, gas)
+7. Se plantea un **indicio o duda de conspiración mayor**, que termina desmentido de manera hilarante por lo bizarro de los personajes y sus vidas.
+8. Los personajes sufren en carne propia la **situación económica y política del país**.
 
 ### Elementos judiciales
 
